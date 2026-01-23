@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Cybersecurity-focused student at Stony Brook University (Class of 2027) with a background in IT Service Management. Currently, I am heavily invested in building my Raspberry Pi Homelab, where I’ve recently completed a network-wide ad-blocking and traffic monitoring project. I am actively studying for my CompTIA Network+ and plan to move into Security+ shortly after. My goal is to bridge the gap between IT infrastructure and proactive security defense. When I'm not configuring my home network or studying protocols, I'm usually training for my next powerlifting PR.
+I am a Cybersecurity-focused student at Stony Brook University (Class of 2027) with a background in IT Service Management. Currently, I am heavily invested in building my Raspberry Pi Homelab, where I’ve recently completed a network-wide ad-blocking and traffic monitoring project. I am actively studying for my CompTIA Network+ and plan to move into Security+ shortly after. My goal is to bridge the gap between IT infrastructure and proactive security defense. When I'm not configuring my home network or studying protocols, I'm usually training for my next gym PR.
 
 
 ## 🌐 Socials:
