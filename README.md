@@ -1,9 +1,9 @@
 # 💫 About Me:
 I am a Cybersecurity & Systems-focused student at Stony Brook University (Class of 2027) with a background in IT Service Management and enterprise support.  My work centers on defensive infrastructure engineering, hybrid cloud security, and Security Operations (SOC):
 
-Infrastructure & Segmentation: Designing virtualized network environments on Proxmox VE utilizing pfSense firewall routing, egress ACLs, VLAN segmentation, and containerized Docker services.  
-Detection & Telemetry: Building dual-SIEM ingestion pipelines across Splunk Enterprise and Microsoft Sentinel, forwarding host-level Sysmon telemetry to triage threat emulation events mapped to the MITRE ATT&CK framework.  
-Identity & Access Management: Architecting multi-OU Active Directory environments, configuring Microsoft Entra Connect Sync, and enforcing the Principle of Least Privilege across enterprise systems.  
+  - Infrastructure & Segmentation: Designing virtualized network environments on Proxmox VE utilizing pfSense firewall routing, egress ACLs, VLAN segmentation, and containerized Docker services.  
+  - Detection & Telemetry: Building dual-SIEM ingestion pipelines across Splunk Enterprise & Microsoft Sentinel, forwarding host-level Sysmon telemetry to triage threat events mapped to the MITRE ATT&CK framework.  
+  - Identity & Access Management: Architecting multi-OU Active Directory environments, configuring Microsoft Entra Connect Sync, and enforcing the Principle of Least Privilege across enterprise systems.  
 
 I currently hold the ISC2 Certified in Cybersecurity (CC) and AWS Certified Cloud Practitioner credentials, and I am actively preparing for the CompTIA Security+ to broaden my defensive security and threat analysis foundation. My goal is to bridge the gap between robust IT infrastructure, identity governance, and proactive security operations.  
 
