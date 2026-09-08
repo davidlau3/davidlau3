@@ -25,7 +25,7 @@ When I'm not configuring network bridges, building detection rules, or studying 
         </a>
       </td>
       <td bgcolor="#FFFFFF" align="center" style="border: none;">
-        <a href="YOUR_ISC2_CC_CREDLY_URL_HERE" target="_blank">
+        <a href="https://www.credly.com/badges/6b7ece16-e850-46de-843e-649e93f20b61/public_url" target="_blank">
           <img src="https://images.credly.com/size/680x680/images/2859c37a-015b-40a6-b570-4bdd7e849b05/image.png" height="100" alt="ISC2 Certified in Cybersecurity (CC)" />
         </a>
       </td>
