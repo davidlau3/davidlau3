@@ -17,11 +17,18 @@ When I'm not configuring network bridges, building detection rules, or studying 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 # 🏅 Certifications:
 <div align="left">
-  <a href="https://www.credly.com/badges/ea18af64-a0b6-4f38-b8b8-1cb91ed5d8d0/public_url">
-    <img src="aws-badge.png" height="100" alt="AWS Certified Cloud Practitioner" />
-  </a>
-  <a href="https://www.credly.com/badges/6b7ece16-e850-46de-843e-649e93f20b61/public_url" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/2859c37a-015b-40a6-b570-4bdd7e849b05/image.png" height="100" alt="ISC2 Certified in Cybersecurity (CC)" />
-  </a>
-</div>
+  <table>
+    <tr>
+      <td bgcolor="#FFFFFF" align="center" style="border: none;">
+        <a href="https://www.credly.com/badges/ea18af64-a0b6-4f38-b8b8-1cb91ed5d8d0/public_url" target="_blank">
+          <img src="aws-badge.png" height="100" alt="AWS Certified Cloud Practitioner" />
+        </a>
+      </td>
+      <td bgcolor="#FFFFFF" align="center" style="border: none;">
+        <a href="YOUR_ISC2_CC_CREDLY_URL_HERE" target="_blank">
+          <img src="https://images.credly.com/size/680x680/images/2859c37a-015b-40a6-b570-4bdd7e849b05/image.png" height="100" alt="ISC2 Certified in Cybersecurity (CC)" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
