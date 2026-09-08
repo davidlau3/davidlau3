@@ -20,4 +20,8 @@ When I'm not configuring network bridges, building detection rules, or studying 
   <a href="https://www.credly.com/badges/ea18af64-a0b6-4f38-b8b8-1cb91ed5d8d0/public_url">
     <img src="aws-badge.png" height="100" alt="AWS Certified Cloud Practitioner" />
   </a>
+  <a href="https://www.credly.com/badges/6b7ece16-e850-46de-843e-649e93f20b61/public_url" target="_blank">
+    <img src="isc2-cc-badge.png" height="100" alt="ISC2 Certified in Cybersecurity (CC)" />
+  </a>
+</div>
 </div>
